@@ -87,7 +87,7 @@ And because it's ultimately just HTML, you can style it however you want.
 
 #### Credit where it's due
 
-This project is based on [Start Bootstrap](http://startbootstrap.com/template-overviews/new-age/), which is based on the [Bootstrap](http://getbootstrap.com/) framework.
+This project is based on [Start Bootstrap](https://startbootstrap.com/template-overviews/creative/), which is based on the [Bootstrap](http://getbootstrap.com/) framework.
 
 #### Bugs and Issues
 
