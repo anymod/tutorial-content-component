@@ -79,7 +79,11 @@ When the snippet code runs, it changes the jframe component from
 ```
 to
 ```html
-<div jframe content id="wnqag">New Age is an app that will help you save time, money, or anything else!</div>
+<div jframe content id="wnqag">
+  <h1>Your Favorite Source of Widgets</h1>
+  <hr>
+  <p>Widget Corp can help you improve your life one widget at a time. Just buy our products and you'll feel better about life, instantly!</p>
+</div>
 ```
 And because it's ultimately just HTML, you can style it however you want.
 
