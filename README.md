@@ -1,10 +1,10 @@
-# Text web component tutorial
+# Tutorial: Content with a web component
 
 *This tutorial takes 5-10 minutes.*
 
-In this tutorial you will use a web component to render text on a webpage. Once the component is in place, you'll be able to edit the text without touching your code.
+In this tutorial you will use a web component to render content on a webpage. Once the component is in place, you'll be able to edit the content without touching your code.
 
-### [Demo here](https://tutorial-text-component.herokuapp.com)
+### [Demo here](https://tutorial-content-component.herokuapp.com/)
 
 ## Getting Started
 
@@ -18,8 +18,8 @@ Download the code as a .zip file using the above [![Clone or download](https://r
 
 * In your terminal window, run
 ```
-git clone https://github.com/jframedev/tutorial-text-component.git
-cd tutorial-text-component
+git clone https://github.com/jframedev/tutorial-content-component.git
+cd tutorial-content-component
 npm install
 npm start
 ```
