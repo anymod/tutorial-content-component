@@ -33,10 +33,10 @@ We have a basic landing page that needs some content to describe the main produc
 
 We could simply hard-code a description, but this is a great example of where the marketing team or a client might want to make changes later. So instead, we can use a jframe content component, which will make it easy to change the content later if we want.
 
-Find the text in line 74 of `index.html`
+Find the heading in line 74 of `index.html`
 
 ```html
-Need some content!
+<h1>Lorem ipsum</h1>
 ```
 and replace it with the following
 ```html
