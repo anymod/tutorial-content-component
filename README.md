@@ -1,4 +1,4 @@
-# Tutorial: Content with a web component
+# Tutorial: Add content with a web component
 
 *This tutorial takes 5-10 minutes.*
 
