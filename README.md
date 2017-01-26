@@ -45,15 +45,11 @@ and replace it with the following
 
 This jframe already has some content we can use. If you want to create your own jframe with your own content, you can [sign up for an account and create your own](https://jframe.io/auth/signup).
 
-With the jframe component in place, we just need to paste the jframe snippet code onto the page. On line 263 of `index.html`, paste the snippet code:
+With the jframe component in place, we just need to paste the jframe script onto the page. On line 263 of `index.html`, paste the script:
 
 ```js
-<!-- jframe snippet code -->
-<script>
-  (function(s,i,m,p,l,e,r){e=i.createElement(m),r=i.getElementsByTagName(m)[0],e.src=l+p+'.js',
-  r.parentNode.insertBefore(e,r),s[p]=s[p]||{f:[],ready:function(c){s[p].f.push(c)}};
-  })(window,document,'script','jframe','https://jfra.me/v0/');
-</script>
+<!-- jframe script -->
+<script src="https://cdn.jframe.io/jframe.js" project="PROJECT-ID"></script>
 ```
 
 Now when you reload the page, you get the content from the jframe.
@@ -72,7 +68,7 @@ Sign up to create your own component and edit it with the dashboard.
 
 ## Extra: behind the scenes
 
-When the snippet code runs, it changes the jframe component from
+When the jframe script runs, it changes the jframe component from
 
 ```html
 <jframe content id="wnqag"></jframe>
