@@ -91,7 +91,7 @@ This project is based on [Start Bootstrap](https://startbootstrap.com/template-o
 
 #### Bugs and Issues
 
-Have a bug or an issue with this template? [Open a new issue](/issues) here on GitHub.
+Have a bug or an issue with this template? [Open a new issue](https://github.com/component-io/tutorial-content-component/issues) here on GitHub.
 
 #### Copyright and License
 
