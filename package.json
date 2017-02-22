@@ -2,15 +2,15 @@
   "name": "tutorial-text-component",
   "title": "Tutorial for text web component",
   "version": "1.0.0",
-  "homepage": "https://github.com/jframedev/tutorial-text-component",
+  "homepage": "https://github.com/component-io/tutorial-text-component",
   "author": "jframe",
   "license": {
     "type": "MIT",
-    "url": "https://github.com/jframedev/tutorial-text-component/blob/master/LICENSE"
+    "url": "https://github.com/component-io/tutorial-text-component/blob/master/LICENSE"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jframedev/tutorial-text-component"
+    "url": "https://github.com/component-io/tutorial-text-component"
   },
   "scripts": {
     "start": "node server.js"
