@@ -2,9 +2,4 @@
 /*.log
 node_modules
 bower_components
-
-# Elastic Beanstalk Files
-.elasticbeanstalk/*
-!.elasticbeanstalk/*.cfg.yml
-!.elasticbeanstalk/*.global.yml
 awsconfig.js
