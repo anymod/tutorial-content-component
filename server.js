@@ -7,10 +7,10 @@ let express     = require('express')
 ,   port = process.env.PORT || 3000
 
 app.get('/', (req, res, next) => {
-  res.sendFile(path.join(__dirname, '') + '/index.html')
+  res.sendFile(path.join(__dirname, 'dist') + '/index.html')
 })
 
-app.use(serveStatic(path.join(__dirname, '')))
+app.use(serveStatic(path.join(__dirname, 'dist')))
 
 app.listen(port, () => {
   console.log('App listening on port ' + port)
